@@ -1,7 +1,7 @@
 /* Racha dos Amigos - service worker
-   Para publicar uma atualização, troque a versão abaixo (racha-v37 -> racha-v38).
+   Para publicar uma atualização, troque a versão abaixo (racha-v38 -> racha-v39).
    O cache antigo é apagado automaticamente na ativação. */
-const CACHE = "racha-v37";
+const CACHE = "racha-v38";
 const FONTS = "racha-fontes";
 const FILES = [
   "./",
